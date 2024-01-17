@@ -21,5 +21,7 @@ public class Ex1 {
         } else {
             System.out.println(" e também é par.");
         }
+
+        input.close();
     }
 }
